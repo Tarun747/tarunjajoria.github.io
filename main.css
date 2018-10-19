@@ -1,0 +1,269 @@
+body{
+    margin:0;
+
+}
+#homeimg{
+    background-image: url(pexels-photo-1037995.jpeg);
+    background-image: fixed;
+    background-size: cover;
+    padding-top:35px;
+    padding-bottom:265px;
+    height: 100%;
+
+     
+}
+nav{
+    text-align:right; 
+    padding-right:30px;
+    }
+.navbar{
+    text-decoration: none !important;
+    font-family:sans-serif, monospace;
+    font-weight:lighter;
+    font-size: 20px;
+    padding-top:10px;
+    padding-left:10px;
+ 
+}
+.bluetxt{
+    color:#8bb5c9;
+}
+.pinktxt{
+    color:#ffa0a0;
+}
+.bluetxt:hover{
+    color:black;
+}
+.pinktxt:hover{
+    color:black;
+}
+#first-txt
+{
+    text-align: center;
+    font-family:sans-serif;
+    font-weight: lighter;
+    color:#545454;
+    padding-top: 200px;
+}
+#second-txt
+{
+text-align: center;
+font-family:sans-serif;
+font-weight: lighter;
+color:#545454;
+padding-top: 200px;
+}
+#second-txt-1
+{
+   text-align: justify;
+   padding-left: 120px;
+   padding-right: 120px;
+
+}
+#txt{
+    font-family:monospace;
+}
+p{
+    text-align: center;
+    font-family: monospace;
+    font-weight: lighter;
+    color:#545454;
+    padding-top: 20px;
+    font-size: 20px; 
+    padding-bottom: 150px;     
+}
+#tarunjajoria
+{
+font-family: monospace;
+text-align: justify;
+padding-top:20px;
+}
+
+#text-tarun
+{
+text-align:justify;
+}
+#software-box
+{
+    background-color:#545454;
+    text-align: center;
+  
+   
+    
+}
+
+.software{
+    color:white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    padding-top:20px;
+    padding-bottom:50px;
+    
+}
+.software-link
+{
+    color:rgb(158, 158, 158);
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-decoration-line: none;
+    text-align: center;
+    text-decoration: none;
+    padding-top:0;
+
+
+}
+.software-link:hover 
+{
+    color:white;
+    
+}
+#electronic
+{
+
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    padding-top:50px;
+    padding-bottom:700px;
+    
+}
+.electronic-box
+{
+    padding-bottom:10px;
+    padding-top:10px;
+
+}
+#get
+{
+    
+    text-align:center;
+    border: 1px solid  rgb(88, 92, 99);
+    border-radius: 10px;
+    font-family: sans-serif,arial,helvatica;
+    padding-top: 500px;
+    text-decoration: none;
+    border: 1px,solid,white;
+    color: rgb(88, 92, 99);
+    font-size: 25px;
+    padding: 5px;
+
+   
+}
+#get:hover{
+   color: #4d6fa5; 
+}
+#wrapper-1-1
+{
+    width: 50%;
+    float:left;
+}
+#wrapper1-2
+{
+    width: 50%;
+    float: right;
+}
+#wrapper-2-1
+{
+    width: 33%;
+    float: left;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#wrapper-2-2
+{
+    width: 33%;
+    float: left;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+   
+}
+#wrapper-2-3
+{
+    width: 33%;
+    float: left;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#wrapper-2-4
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#wrapper-3-1
+{
+    width: 50%;
+    float: left;
+    
+}
+#wrapper-3-2
+{
+    width: 50%;
+    float: left;
+}
+#wrapper-3-4
+{
+   
+}
+#Photography
+{
+    background-color:#545454;  
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    padding-top:10px;
+    padding-bottom:400px;
+    color:white;
+    
+}
+.photography-box
+{
+    
+    color:white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-bottom:50px;
+    
+}
+.get2
+{
+    text-align:center;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-family: sans-serif,arial,helvatica;
+    padding-top: 10px;
+    text-decoration: none;
+    border: 1px,solid,white;
+    color: white;
+    font-size: 25px;
+    padding: 5px;
+
+   
+}
+.get2:hover{
+   color:yellow; 
+}
+footer 
+{
+    background-color:white;
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 0px;
+    margin-top:0px;
+
+  
+
+}
+.footer-text
+{
+    display: inline;
+    text-decoration: none;
+    padding-bottom:10px;
+    
+}
+.footer-img
+{
+   height: 20px;
+   width: 30px;
+}
+
