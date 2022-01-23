@@ -1,0 +1,23 @@
+@import "../../../theme/variable.module.scss";
+
+.bg {
+	background-color: $light_black_color;
+	height: 100vh;
+	text-align: center;
+	margin-top: 5rem;
+	font-family: monospace;
+}
+
+.navigationBtn,
+a,
+h3 {
+	text-decoration: none;
+	font-size: 1.5rem;
+	color: $grey_color;
+	transition: 300ms;
+	:hover {
+		font-size: 1.7rem;
+		color: $secondary_app_color;
+		transition: 600ms;
+	}
+}
