@@ -20,7 +20,7 @@ export default function Navigation() {
 			</Grid>
 			<Grid item md={12} center>
 				<div className={classes.navigationBtn}>
-					<Link  to="/" className="btn btn-primary">
+					<Link  to="/about" className="btn btn-primary">
         					<h3>
 							# About
 						</h3>
@@ -29,7 +29,7 @@ export default function Navigation() {
 			</Grid>
 			<Grid item md={12} center>
 				<div className={classes.navigationBtn}>
-					<Link  to="/" className="btn btn-primary">
+					<Link  to="/projects" className="btn btn-primary">
         					<h3>
 							# Project
 						</h3>
@@ -38,7 +38,7 @@ export default function Navigation() {
 			</Grid>
 			<Grid item md={12} center>
 				<div className={classes.navigationBtn}>
-					<Link  to="/" className="btn btn-primary">
+					<Link  to="/contact" className="btn btn-primary">
         					<h3>
 							# Contact
 						</h3>
@@ -47,7 +47,7 @@ export default function Navigation() {
 			</Grid>
 			<Grid item md={12} center>
 				<div className={classes.navigationBtn}>
-					<Link  to="/" className="btn btn-primary">
+					<Link  to="/hire" className="btn btn-primary">
         					<h3>
 							# Hire Me!
 						</h3>

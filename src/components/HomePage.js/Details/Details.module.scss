@@ -1,6 +1,9 @@
 @import "../../../theme/variable.module.scss";
 
 .bg {
-	background-color: $primary_app_color;
 	height: 100vh;
+	background-color: $primary_app_color;
+}
+.mainContent {
+	color: $secondary_app_color;
 }

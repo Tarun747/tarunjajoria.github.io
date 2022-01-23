@@ -8,8 +8,14 @@ import { WithErrors } from './hocs/WithErrors'
 
 export const App = () => (
   <Switch>
+
     <Route exact path="/" component={HomePage} />
+    <Route exact path="/about" component={HomePage} />
+    <Route exact path="/projects" component={HomePage} />
+    <Route exact path="/contact" component={HomePage} />
+    <Route exact path="/hire" component={HomePage} />
     <Route exact path="/exampleComponent" component={ExampleComponent} />
+    
   </Switch>
 )
 
